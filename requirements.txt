@@ -1,4 +1,3 @@
-     
 langchain
 python-dotenv
 ipykernel
@@ -6,4 +5,8 @@ langchain_groq
 langchain_google_genai
 langchain_community
 pypdf
+langchain_document_loaders
+langchain_text_splitters
+pypdf
 faiss-cpu
+-e .
