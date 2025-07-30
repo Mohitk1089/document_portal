@@ -9,4 +9,5 @@ langchain_document_loaders
 langchain_text_splitters
 pypdf
 faiss-cpu
+langchain_google_genai
 -e .
